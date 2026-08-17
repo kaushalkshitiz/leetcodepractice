@@ -53,8 +53,13 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
