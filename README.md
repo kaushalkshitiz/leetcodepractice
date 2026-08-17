@@ -52,6 +52,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
@@ -62,4 +63,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
