@@ -56,6 +56,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,5 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
