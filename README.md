@@ -54,6 +54,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | ------- | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
