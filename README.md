@@ -87,8 +87,13 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0069-sqrtx/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
