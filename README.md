@@ -52,6 +52,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -87,6 +88,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Newton's Method
@@ -98,4 +100,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
