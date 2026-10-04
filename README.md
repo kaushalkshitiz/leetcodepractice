@@ -54,6 +54,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1470-shuffle-the-array/) | Easy |
@@ -75,10 +76,12 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [0069-sqrtx](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0069-sqrtx/) | Easy |
 | [0441-arranging-coins](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0441-arranging-coins/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
