@@ -55,6 +55,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -101,6 +102,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [0278-first-bad-version](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0441-arranging-coins/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
