@@ -129,5 +129,6 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
