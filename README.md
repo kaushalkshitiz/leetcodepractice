@@ -126,4 +126,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0198-house-robber/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
