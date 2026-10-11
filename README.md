@@ -57,6 +57,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [0162-find-peak-element](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -72,6 +73,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
