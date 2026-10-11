@@ -67,6 +67,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [1672-richest-customer-wealth](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1929-concatenation-of-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +137,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
