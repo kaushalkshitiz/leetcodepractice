@@ -53,6 +53,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0198-house-robber/) | Medium |
@@ -126,6 +127,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0198-house-robber/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -142,4 +144,8 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
