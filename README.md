@@ -63,6 +63,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -87,6 +88,7 @@ The goal of this repository is to consistently practice **Data Structures & Algo
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kaushalkshitiz/leetcodepractice/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
